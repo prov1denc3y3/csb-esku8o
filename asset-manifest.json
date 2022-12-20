@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "https://.github.io/csb-esku8o/static/css/main.8d20f70b.chunk.css",
+    "main.js": "https://.github.io/csb-esku8o/static/js/main.a9cb9a86.chunk.js",
+    "main.js.map": "https://.github.io/csb-esku8o/static/js/main.a9cb9a86.chunk.js.map",
+    "runtime-main.js": "https://.github.io/csb-esku8o/static/js/runtime-main.56c7fa25.js",
+    "runtime-main.js.map": "https://.github.io/csb-esku8o/static/js/runtime-main.56c7fa25.js.map",
+    "static/js/2.dbceda76.chunk.js": "https://.github.io/csb-esku8o/static/js/2.dbceda76.chunk.js",
+    "static/js/2.dbceda76.chunk.js.map": "https://.github.io/csb-esku8o/static/js/2.dbceda76.chunk.js.map",
+    "index.html": "https://.github.io/csb-esku8o/index.html",
+    "static/css/main.8d20f70b.chunk.css.map": "https://.github.io/csb-esku8o/static/css/main.8d20f70b.chunk.css.map",
+    "static/js/2.dbceda76.chunk.js.LICENSE.txt": "https://.github.io/csb-esku8o/static/js/2.dbceda76.chunk.js.LICENSE.txt",
+    "static/media/abed-ismail-m5tDtR_bZcU-unsplash.fe74fe00.jpg": "https://.github.io/csb-esku8o/static/media/abed-ismail-m5tDtR_bZcU-unsplash.fe74fe00.jpg",
+    "static/media/aleesha-wood-dm-ApvBj0nI-unsplash.6843f87d.jpg": "https://.github.io/csb-esku8o/static/media/aleesha-wood-dm-ApvBj0nI-unsplash.6843f87d.jpg",
+    "static/media/kelvin-yup-GChKfv2_PfM-unsplash.9f55cd29.jpg": "https://.github.io/csb-esku8o/static/media/kelvin-yup-GChKfv2_PfM-unsplash.9f55cd29.jpg",
+    "static/media/priscilla-du-preez-8NXmaXg5xL0-unsplash.31310017.jpg": "https://.github.io/csb-esku8o/static/media/priscilla-du-preez-8NXmaXg5xL0-unsplash.31310017.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.56c7fa25.js",
+    "static/js/2.dbceda76.chunk.js",
+    "static/css/main.8d20f70b.chunk.css",
+    "static/js/main.a9cb9a86.chunk.js"
+  ]
+}
